@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/claude-code/static/css/main.2320f37c.css",
+    "main.js": "/claude-code/static/js/main.6f606d17.js",
+    "static/js/453.a482ffe7.chunk.js": "/claude-code/static/js/453.a482ffe7.chunk.js",
+    "index.html": "/claude-code/index.html",
+    "main.2320f37c.css.map": "/claude-code/static/css/main.2320f37c.css.map",
+    "main.6f606d17.js.map": "/claude-code/static/js/main.6f606d17.js.map",
+    "453.a482ffe7.chunk.js.map": "/claude-code/static/js/453.a482ffe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2320f37c.css",
+    "static/js/main.6f606d17.js"
+  ]
+}
